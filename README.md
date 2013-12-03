@@ -1,4 +1,4 @@
-## Deploy any Java app in 10 minutes for $5
+## Deploy any Java app in 10 minutes
 
 - Dokku (https://github.com/progrium/dokku)
 - DigitalOcean (http://digitalocean.com)
