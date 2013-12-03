@@ -14,7 +14,7 @@ Simple Maven project with maven-jar-plugin
 
 https://github.com/mvberg/dokku-java-sample
 
-### Remote push and verify app is deployed:
+### Remote push
 
 <code>git remote add dokku dokku@SERVER:java-sample</code> <br />
 <code>git push dokku master</code>
@@ -39,7 +39,7 @@ remote: -----> Cleaning up ...<br/>
 remote: =====> Application deployed:<br/>
 remote:        http://XXX.XXX.XXX.XXX:49156<br/>
 
-### Confirm
+### Confirm app is deployed
 
 List deployed apps: <code>docker ps -a </code> <br/>
 Get logs from app: <code>docker logs [CONTAINER_ID]</code>
