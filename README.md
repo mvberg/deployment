@@ -44,6 +44,8 @@ remote:        http://XXX.XXX.XXX.XXX:49156<br/>
 List deployed apps: <code>docker ps -a </code> <br/>
 Get logs from app: <code>docker logs [CONTAINER_ID]</code>
 
+Redeploy with <code>git push dokku master</code>
+
 ### Have a beer
 
 
