@@ -3,7 +3,7 @@
 - Dokku (https://github.com/progrium/dokku)
 - DigitalOcean (http://digitalocean.com)
 
-### Quick setup for Dokku running at DigitalOcean
+### Quick setup for Dokku server running at DigitalOcean
 
 http://goo.gl/1UtP1X<br>
 https://github.com/progrium/dokku#deploy-an-app
